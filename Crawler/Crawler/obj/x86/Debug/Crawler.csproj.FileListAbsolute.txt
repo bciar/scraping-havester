@@ -1,0 +1,24 @@
+E:\Jobs\20140617_AU_SINO_Scraping\Crawler\Crawler\bin\Debug\Crawler.exe
+E:\Jobs\20140617_AU_SINO_Scraping\Crawler\Crawler\bin\Debug\Crawler.pdb
+E:\Jobs\20140617_AU_SINO_Scraping\Crawler\Crawler\bin\Debug\HtmlAgilityPack.xml
+E:\Jobs\20140617_AU_SINO_Scraping\Crawler\Crawler\obj\x86\Debug\Crawler.Form1.resources
+E:\Jobs\20140617_AU_SINO_Scraping\Crawler\Crawler\obj\x86\Debug\Crawler.Properties.Resources.resources
+E:\Jobs\20140617_AU_SINO_Scraping\Crawler\Crawler\obj\x86\Debug\Crawler.csproj.GenerateResource.Cache
+E:\Jobs\20140617_AU_SINO_Scraping\Crawler\Crawler\obj\x86\Debug\Crawler.exe
+E:\Jobs\20140617_AU_SINO_Scraping\Crawler\Crawler\obj\x86\Debug\Crawler.pdb
+F:\My Store\Web Scraping\LJH\Crawler\Crawler\bin\Debug\Crawler.exe
+F:\My Store\Web Scraping\LJH\Crawler\Crawler\bin\Debug\Crawler.pdb
+F:\My Store\Web Scraping\LJH\Crawler\Crawler\obj\x86\Debug\Crawler.csprojResolveAssemblyReference.cache
+F:\My Store\Web Scraping\LJH\Crawler\Crawler\obj\x86\Debug\Crawler.Form1.resources
+F:\My Store\Web Scraping\LJH\Crawler\Crawler\obj\x86\Debug\Crawler.Properties.Resources.resources
+F:\My Store\Web Scraping\LJH\Crawler\Crawler\obj\x86\Debug\Crawler.csproj.GenerateResource.Cache
+F:\My Store\Web Scraping\LJH\Crawler\Crawler\obj\x86\Debug\Crawler.exe
+F:\My Store\Web Scraping\LJH\Crawler\Crawler\obj\x86\Debug\Crawler.pdb
+F:\Works\Web Scraping\Crawler\Crawler\bin\Debug\Crawler.exe
+F:\Works\Web Scraping\Crawler\Crawler\bin\Debug\Crawler.pdb
+F:\Works\Web Scraping\Crawler\Crawler\obj\x86\Debug\Crawler.csprojResolveAssemblyReference.cache
+F:\Works\Web Scraping\Crawler\Crawler\obj\x86\Debug\Crawler.Form1.resources
+F:\Works\Web Scraping\Crawler\Crawler\obj\x86\Debug\Crawler.Properties.Resources.resources
+F:\Works\Web Scraping\Crawler\Crawler\obj\x86\Debug\Crawler.csproj.GenerateResource.Cache
+F:\Works\Web Scraping\Crawler\Crawler\obj\x86\Debug\Crawler.exe
+F:\Works\Web Scraping\Crawler\Crawler\obj\x86\Debug\Crawler.pdb

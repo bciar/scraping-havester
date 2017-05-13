@@ -1,0 +1,9 @@
+F:\Works\Web Scraping\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+F:\Works\Web Scraping\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+F:\Works\Web Scraping\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OreillyTriviaHarvester.exe.config
+F:\Works\Web Scraping\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OreillyTriviaHarvester.exe
+F:\Works\Web Scraping\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OreillyTriviaHarvester.pdb
+F:\Works\Web Scraping\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\OreillyTriviaHarvester.OreillyTriviaHarvester.resources
+F:\Works\Web Scraping\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\OreillyTriviaHarvester.Properties.Resources.resources
+F:\Works\Web Scraping\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\OreillyTriviaHarvester.exe
+F:\Works\Web Scraping\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\OreillyTriviaHarvester.pdb
